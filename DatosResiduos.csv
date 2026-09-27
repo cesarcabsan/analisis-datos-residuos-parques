@@ -1,0 +1,22 @@
+,,,,,,,
+,ID Registro,Tipo de residuo,Frecuencia de recolección,Nombre del parque,Cantidad estimada (kg),Fecha de registro,Observaciones
+,R1,Plastico,Diaria,Parque Mirador de las Mitras,42,10-07-2026,Botellas PET
+,R2,Organico,Semanal,Parque Mision Cumbres,44,16-07-2026,Restos de poda
+,R3,Papel/Carton,Mensual,Parque Mirador de las Mitras,44,24-07-2026,Cajas de carton desarmadas
+,R4,Plástico,Semanal,Parque Los Navegantes,53,01-08-2026,Botellas PET
+,R5,Organico,Mensual,Parque Mirador de las Mitras,34,12-08-2026,Restos de poda
+,R6,Organico,Semanal,Parque Mision Cumbres,44,16-08-2026,Hojas y ramas secas
+,R7,Organico,Semanal,Parque Mision Cumbres,43,16-08-2026,Hojas y ramas secas
+,R8,Papel/Carton,Semanal,Parque Mirador de las Mitras,45,20-08-2026,Envolturas de papel
+,R9,Organico,Mensual,Parque Mirador de las Mitras,54,21-08-2026,Hojas y ramas secas  
+,R10,Organico,Semanal,Parque Mirador de las Mitras,51,22-08-2026,Restos de poda
+,R11,Plástico,Diaria,Parque Mision Cumbres,56,27-08-2026,Botellas PET
+,R12,Papel/Carton,Semanal,Parque Mirador de las Mitras,54,31-08-2026,Envolturas de papel
+,R13,Plástico,Semanal,Parque Mision Cumbres,44,31-08-2026,Tapas y botellas 
+,R14,Papel/Carton,Diaria,Parque Mirador de las Mitras,57,01-09-2026,Envolturas de papel
+,R15,Vidrio,Mensual,Parque Mision Cumbres,30,01-09-2026,Botellas de vidrio
+,R16,Plástico,Semanal,Parque Mision Cumbres,55,01-09-2026,Empaques de botanas
+,R17,Vidrio,Mensual,Parque Los Navegantes,30,07-09-2026,Botellas de vidrio
+,R18,Organico,Semanal,Parque Mision Cumbres,43,09-09-2026,Restos de poda
+,R19,Papel/Carton,Mensual,Parque Los Navegantes,43,13-09-2026,Envolturas de papel
+,R20,Papel/Carton,Semanal,Parque Mision Cumbres,40,16-09-2026,Empaques desechados
